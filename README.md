@@ -13,6 +13,7 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,8 +39,14 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0202-happy-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0728-self-dividing-numbers](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
