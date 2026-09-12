@@ -38,4 +38,8 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Math
+|  |
+| ------- |
+| [0728-self-dividing-numbers](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
