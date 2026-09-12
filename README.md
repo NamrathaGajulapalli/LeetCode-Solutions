@@ -30,4 +30,12 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0338-counting-bits) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
