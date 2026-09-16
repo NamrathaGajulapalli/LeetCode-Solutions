@@ -9,12 +9,14 @@ My LeetCode solutions in Python Visibility:
 | [0001-two-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0137-single-number-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,4 +63,8 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+## Sorting
+|  |
+| ------- |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 <!---LeetCode Topics End-->
