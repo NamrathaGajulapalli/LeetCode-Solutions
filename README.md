@@ -45,6 +45,7 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -62,6 +63,7 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
