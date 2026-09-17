@@ -1,15 +1,31 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        l=list(s)
-        r=''
-        g=''
-        for i in range(-1,-len(s)-1,-1):
-            if l[i].isalnum():
-                r+=l[i]
+        l=''
         for i in s:
             if i.isalnum():
-                g+=i
-        return g.lower()==r.lower()      
+                l+=i
+        l=l.lower()        
+        le=0
+        r=len(l)-1
+        while le<r:
+            if l[le]!=l[r]:
+                return False
+            le+=1
+            r-=1  
+        return True      
+
+
+        # l=list(s)
+        # r=''
+        # g=''
+        # for i in range(-1,-len(s)-1,-1):
+        #     if l[i].isalnum():
+        #         r+=l[i]
+        # for i in s:
+        #     if i.isalnum():
+        #         g+=i
+        # return g.lower()==r.lower()      
+        'or'
 
         # l=''
         # a=0
