@@ -4,10 +4,19 @@ class Solution:
         #     for j in range(i+1,len(nums)):
         #         if nums[i]+nums[j]==target:
         #             return [i,j]
+
+        # for i in range(len(nums)):
+        #     x=target-nums[i]
+        #     if x in nums[i+1:]:
+        #         return [i,i+1+nums[i+1:].index(x)]
+
+        d={}
         for i in range(len(nums)):
             x=target-nums[i]
-            if x in nums[i+1:]:
-                return [i,i+1+nums[i+1:].index(x)]
+            if x in d:
+                return [d[x],i]
+            d[nums[i]]=i
+
        
 
        
