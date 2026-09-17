@@ -10,12 +10,19 @@ class Solution:
         #     if x in nums[i+1:]:
         #         return [i,i+1+nums[i+1:].index(x)]
 
-        d={}
+        # d={}
+        # for i in range(len(nums)):
+        #     x=target-nums[i]
+        #     if x in d:
+        #         return [d[x],i]
+        #     d[nums[i]]=i
+
+        s=set()
         for i in range(len(nums)):
             x=target-nums[i]
-            if x in d:
-                return [d[x],i]
-            d[nums[i]]=i
+            if x in s:
+                return [nums.index(x),i]
+            s.add(nums[i])    
 
        
 
