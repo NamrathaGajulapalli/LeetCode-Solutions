@@ -20,6 +20,7 @@ My LeetCode solutions in Python Visibility:
 | [0003-longest-substring-without-repeating-characters](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,6 +70,7 @@ My LeetCode solutions in Python Visibility:
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -83,4 +85,8 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Counting
+|  |
+| ------- |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
