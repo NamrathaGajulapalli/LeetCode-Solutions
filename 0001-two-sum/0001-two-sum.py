@@ -17,13 +17,19 @@ class Solution:
         #         return [d[x],i]
         #     d[nums[i]]=i
 
-        s=set()
+        # s=set()
+        # for i in range(len(nums)):
+        #     x=target-nums[i]
+        #     if x in s:
+        #         return [nums.index(x),i]
+        #     s.add(nums[i])    
+
+        d={}
         for i in range(len(nums)):
             x=target-nums[i]
-            if x in s:
-                return [nums.index(x),i]
-            s.add(nums[i])    
-
+            if x in d:
+                return [d[x],i]
+            d[nums[i]]=i    
        
 
        
