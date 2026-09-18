@@ -72,6 +72,7 @@ My LeetCode solutions in Python Visibility:
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [3136-valid-word](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3210-find-the-encrypted-string) |
 | [3340-check-balanced-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
