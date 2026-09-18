@@ -2,7 +2,8 @@ class Solution:
     def isBalanced(self, num: str) -> bool:
         even=0
         odd=0
-        for i in range(len(num)):
+        n=len(num)
+        for i in range(n):
             if i%2==0:
                 even+=int(num[i])
             else:
