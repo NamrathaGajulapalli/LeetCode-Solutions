@@ -4,17 +4,19 @@ class Solution:
             return 0
         s=(sorted(set(nums)))
         i=0
-        l=[]
+        maxi=0
         c=1
         while i<len(s)-1:
             if s[i]+1==s[i+1]:
                 c+=1
             else:
-                l.append(c)
+                if maxi<c:
+                    maxi=c
                 c=1    
             i+=1 
-        l.append(c)    
-        return max(l)                   
+        if maxi<c:
+            maxi=c    
+        return maxi                   
 
             
 
