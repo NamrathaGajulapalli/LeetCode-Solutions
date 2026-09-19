@@ -83,6 +83,7 @@ My LeetCode solutions in Python Visibility:
 | [3340-check-balanced-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3707-equal-score-substrings](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3707-equal-score-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -112,4 +113,8 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [1539-kth-missing-positive-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [3707-equal-score-substrings](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3707-equal-score-substrings) |
 <!---LeetCode Topics End-->
