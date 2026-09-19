@@ -16,14 +16,14 @@ class Solution:
         #     else:
         #         d.add(i)     
         # return False        
-        '''
+        
         if len(set(nums))==len(nums):
             return False
-        return True '''
-        a=set()
-        for i in nums:
-            if i in a:
-                return True
-            else:
-                a.add(i)
-        return False          
+        return True 
+        # a=set()
+        # for i in nums:
+        #     if i in a:
+        #         return True
+        #     else:
+        #         a.add(i)
+        # return False          
