@@ -26,6 +26,7 @@ My LeetCode solutions in Python Visibility:
 | [0242-valid-anagram](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [3146-permutation-difference-between-two-strings](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -83,6 +84,7 @@ My LeetCode solutions in Python Visibility:
 | [3174-clear-digits](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3210-find-the-encrypted-string) |
 | [3340-check-balanced-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3707-equal-score-substrings](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3707-equal-score-substrings) |
@@ -107,6 +109,7 @@ My LeetCode solutions in Python Visibility:
 ## Counting
 |  |
 | ------- |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
