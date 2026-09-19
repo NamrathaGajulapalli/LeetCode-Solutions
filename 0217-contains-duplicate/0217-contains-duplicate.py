@@ -17,9 +17,9 @@ class Solution:
         #         d.add(i)     
         # return False        
         
-        if len(set(nums))==len(nums):
-            return False
-        return True 
+        return not len(set(nums))==len(nums)
+        #     return False
+        # return True 
         # a=set()
         # for i in nums:
         #     if i in a:
