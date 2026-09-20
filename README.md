@@ -96,6 +96,7 @@ My LeetCode solutions in Python Visibility:
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3582-generate-tag-for-video-caption](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3582-generate-tag-for-video-caption) |
 | [3707-equal-score-substrings](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3707-equal-score-substrings) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3838-weighted-word-mapping](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -106,6 +107,7 @@ My LeetCode solutions in Python Visibility:
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [3174-clear-digits](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3582-generate-tag-for-video-caption](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3582-generate-tag-for-video-caption) |
 | [3838-weighted-word-mapping](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
