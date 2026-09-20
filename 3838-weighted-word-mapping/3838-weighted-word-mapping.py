@@ -5,8 +5,7 @@ class Solution:
             s=0
             for j in i:
                 s+=weights[ord(j)-97]
-            r=s%26
-            f+=chr(122-r)
+            f+=chr(122-(s%26))
         return f  
  
  
