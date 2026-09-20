@@ -17,6 +17,7 @@ My LeetCode solutions in Python Visibility:
 | [1539-kth-missing-positive-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2678-number-of-senior-citizens](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [3838-weighted-word-mapping](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ My LeetCode solutions in Python Visibility:
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2299-strong-password-checker-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2299-strong-password-checker-ii) |
+| [2678-number-of-senior-citizens](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [3136-valid-word](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3136-valid-word) |
 | [3146-permutation-difference-between-two-strings](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3174-clear-digits) |
