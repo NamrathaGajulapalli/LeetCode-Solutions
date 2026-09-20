@@ -17,6 +17,7 @@ My LeetCode solutions in Python Visibility:
 | [1539-kth-missing-positive-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3838-weighted-word-mapping](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ My LeetCode solutions in Python Visibility:
 | [3498-reverse-degree-of-a-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3707-equal-score-substrings](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3707-equal-score-substrings) |
+| [3838-weighted-word-mapping](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [4030-check-ascii-palindromic](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/4030-check-ascii-palindromic) |
 ## Simulation
 |  |
@@ -100,6 +102,7 @@ My LeetCode solutions in Python Visibility:
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [3174-clear-digits](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
