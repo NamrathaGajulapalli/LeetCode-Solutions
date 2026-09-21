@@ -3,8 +3,6 @@ class Solution:
         d1={}
         d2={}
         c=0
-        x=[]
-        y=[]
         for i in words1:
             if i in d1:
                 d1[i]+=1
