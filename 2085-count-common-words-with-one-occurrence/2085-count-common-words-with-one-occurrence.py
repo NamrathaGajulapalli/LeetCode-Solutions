@@ -14,16 +14,20 @@ class Solution:
             if i in d2:
                 d2[i]+=1
             else:
-                d2[i]=1        
+                d2[i]=1 
         for i in d1:
-            if d1[i]==1:
-                x.append(i)
-        for i in d2:
-            if d2[i]==1:
-                y.append(i)
-        for i in x:
-            if i in y:
-                c+=1
-        return c                         
+            if i in d2 and d1[i]==1 and d2[i]==1:
+                c+=1 
+        return c                      
+        # for i in d1:
+        #     if d1[i]==1:
+        #         x.append(i)
+        # for i in d2:
+        #     if d2[i]==1:
+        #         y.append(i)
+        # for i in x:
+        #     if i in y:
+        #         c+=1
+        # return c                         
                               
         
