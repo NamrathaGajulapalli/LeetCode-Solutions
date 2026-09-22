@@ -17,6 +17,7 @@ My LeetCode solutions in Python Visibility:
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
