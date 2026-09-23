@@ -51,6 +51,7 @@ My LeetCode solutions in Python Visibility:
 | [0201-bitwise-and-of-numbers-range](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [4030-check-ascii-palindromic](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/4030-check-ascii-palindromic) |
@@ -81,6 +82,7 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0342-power-of-four](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Floyd's Cycle Finding Algorithm
@@ -170,4 +172,8 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
