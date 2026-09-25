@@ -12,6 +12,7 @@ My LeetCode solutions in Python Visibility:
 | [0209-minimum-size-subarray-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -38,6 +39,7 @@ My LeetCode solutions in Python Visibility:
 | [0202-happy-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -52,6 +54,7 @@ My LeetCode solutions in Python Visibility:
 | [0190-reverse-bits](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
@@ -86,6 +89,7 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -140,6 +144,7 @@ My LeetCode solutions in Python Visibility:
 | ------- |
 | [0217-contains-duplicate](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -165,6 +170,7 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1539-kth-missing-positive-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Prefix Sum
 |  |
