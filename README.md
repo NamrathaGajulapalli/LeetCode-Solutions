@@ -24,6 +24,7 @@ My LeetCode solutions in Python Visibility:
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
