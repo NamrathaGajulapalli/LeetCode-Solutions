@@ -22,6 +22,7 @@ My LeetCode solutions in Python Visibility:
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -44,6 +45,7 @@ My LeetCode solutions in Python Visibility:
 | [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1512-number-of-good-pairs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [3146-permutation-difference-between-two-strings](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -95,6 +97,7 @@ My LeetCode solutions in Python Visibility:
 | [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
+| [1512-number-of-good-pairs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -163,6 +166,7 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
