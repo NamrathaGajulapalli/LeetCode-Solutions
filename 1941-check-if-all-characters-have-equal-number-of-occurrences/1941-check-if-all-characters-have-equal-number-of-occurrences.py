@@ -6,8 +6,10 @@ class Solution:
                 d[i]+=1
             else:
                 d[i]=1
-        a=set()        
+        a=d[s[0]]       
         for i in d:
-            a.add(d[i])
-        return len(a)==1                
+            if d[i]!=a:
+                return False
+                
+        return True                 
         
