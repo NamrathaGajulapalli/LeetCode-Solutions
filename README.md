@@ -19,6 +19,7 @@ My LeetCode solutions in Python Visibility:
 | [1051-height-checker](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -93,6 +94,7 @@ My LeetCode solutions in Python Visibility:
 | [0344-reverse-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0832-flipping-an-image](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [4030-check-ascii-palindromic](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/4030-check-ascii-palindromic) |
@@ -163,6 +165,7 @@ My LeetCode solutions in Python Visibility:
 | [0242-valid-anagram](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -193,6 +196,7 @@ My LeetCode solutions in Python Visibility:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Prefix Sum
 |  |
