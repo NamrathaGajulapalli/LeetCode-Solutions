@@ -7,12 +7,12 @@ class Solution:
         l=sorted(l)
         x=0
         r=''
-        for i in range(len(s)):
-            if s[i] in "AEIOUaeiou":
+        for i in s:
+            if i in "AEIOUaeiou":
                 r+=l[x]
                 x+=1
             else:
-                r+=s[i]    
+                r+=i    
         return r        
                         
 
