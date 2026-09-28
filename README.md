@@ -131,6 +131,7 @@ My LeetCode solutions in Python Visibility:
 | [2299-strong-password-checker-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2299-strong-password-checker-ii) |
 | [2418-sort-the-people](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
+| [2785-sort-vowels-in-a-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3136-valid-word](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3136-valid-word) |
 | [3146-permutation-difference-between-two-strings](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3174-clear-digits) |
@@ -166,6 +167,7 @@ My LeetCode solutions in Python Visibility:
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2418-sort-the-people](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [2785-sort-vowels-in-a-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
