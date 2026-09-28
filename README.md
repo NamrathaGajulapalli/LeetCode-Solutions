@@ -7,6 +7,7 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0137-single-number-ii) |
@@ -101,6 +102,7 @@ My LeetCode solutions in Python Visibility:
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -210,6 +212,7 @@ My LeetCode solutions in Python Visibility:
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Recursion
