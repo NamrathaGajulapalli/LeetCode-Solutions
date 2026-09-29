@@ -136,6 +136,7 @@ My LeetCode solutions in Python Visibility:
 | [2085-count-common-words-with-one-occurrence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2129-capitalize-the-title](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2129-capitalize-the-title) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2299-strong-password-checker-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2299-strong-password-checker-ii) |
