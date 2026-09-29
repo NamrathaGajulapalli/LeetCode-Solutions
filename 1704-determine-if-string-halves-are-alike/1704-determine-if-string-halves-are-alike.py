@@ -5,7 +5,7 @@ class Solution:
         b=s[x//2:]
         v1=0
         v2=0
-        for i in range(len(a)):
+        for i in range(x//2):
             if a[i] in "AEIOUaeiou":
                 v1+=1
             if b[i] in "AEIOUaeiou":
