@@ -39,6 +39,7 @@ My LeetCode solutions in Python Visibility:
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2418-sort-the-people](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [3838-weighted-word-mapping](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -60,6 +61,7 @@ My LeetCode solutions in Python Visibility:
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2418-sort-the-people](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [3146-permutation-difference-between-two-strings](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -143,6 +145,7 @@ My LeetCode solutions in Python Visibility:
 | [2185-counting-words-with-a-given-prefix](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2299-strong-password-checker-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2299-strong-password-checker-ii) |
 | [2418-sort-the-people](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
@@ -183,6 +186,7 @@ My LeetCode solutions in Python Visibility:
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2418-sort-the-people](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Sliding Window
