@@ -17,6 +17,7 @@ My LeetCode solutions in Python Visibility:
 | [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [0896-monotonic-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
