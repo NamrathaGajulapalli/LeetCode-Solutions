@@ -1,5 +1,6 @@
 class Solution:
     def majorityElement(self, nums: list[int]) -> list[int]:
+        n=len(nums)
         d={}
         l=[]
         for i in nums:
@@ -8,7 +9,7 @@ class Solution:
             else:
                 d[i]=1
         for i,j in d.items():
-            if j>(len(nums)/3):
+            if j>(n/3):
                 l.append(i)  
         return l                  
         
