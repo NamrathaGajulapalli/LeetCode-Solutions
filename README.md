@@ -10,6 +10,7 @@ My LeetCode solutions in Python Visibility:
 | [0048-rotate-image](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -91,6 +92,7 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0338-counting-bits) |
 ## Linked List
 |  |
