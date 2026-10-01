@@ -1,12 +1,12 @@
 class Solution:
     def setZeroes(self, matrix: list[list[int]]) -> None:
-        r=[]
-        c=[]
+        r=set()
+        c=set()
         for i in range(len(matrix)):
             for j in range(len(matrix[i])):
                 if matrix[i][j]==0:
-                    r.append(i)
-                    c.append(j)
+                    r.add(i)
+                    c.add(j)
         for i in range(len(matrix)):
             for j in range(len(matrix[i])):
                 if i in r:
