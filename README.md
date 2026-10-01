@@ -8,6 +8,7 @@ My LeetCode solutions in Python Visibility:
 | ------- |
 | [0001-two-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -61,6 +62,7 @@ My LeetCode solutions in Python Visibility:
 | ------- |
 | [0001-two-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -263,6 +265,7 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
