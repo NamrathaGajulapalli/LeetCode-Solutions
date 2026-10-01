@@ -25,6 +25,7 @@ My LeetCode solutions in Python Visibility:
 | [0867-transpose-matrix](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1051-height-checker](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -289,4 +290,5 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 <!---LeetCode Topics End-->
