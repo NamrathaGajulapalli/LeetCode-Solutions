@@ -1,18 +1,22 @@
 class Solution:
     def findErrorNums(self, nums: list[int]) -> list[int]:
-        d={}
-        r=[]
-        for i in nums:
-            if i in d:
-                r.append(i)
-                break
-            else:
-                d[i]=1
-        for i in range(1,len(nums)+1):
-            if i not in nums:
-                r.append(i)
-                break   
-        return r                 
+        x=sum(nums)
+        y=sum(set(nums))
+        z=(len(nums)*(len(nums)+1))//2
+        return [x-y,z-y]
+        # d={}
+        # r=[]
+        # for i in nums:
+        #     if i in d:
+        #         r.append(i)
+        #         break
+        #     else:
+        #         d[i]=1
+        # for i in range(1,len(nums)+1):
+        #     if i not in nums:
+        #         r.append(i)
+        #         break   
+        # return r                 
 
         # nums=sorted(nums)
         # r=[]
