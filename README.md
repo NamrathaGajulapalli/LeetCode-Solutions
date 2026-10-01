@@ -19,6 +19,7 @@ My LeetCode solutions in Python Visibility:
 | [0260-single-number-iii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
@@ -64,6 +65,7 @@ My LeetCode solutions in Python Visibility:
 | [0229-majority-element-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -86,6 +88,7 @@ My LeetCode solutions in Python Visibility:
 | [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -200,6 +203,7 @@ My LeetCode solutions in Python Visibility:
 | [0229-majority-element-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
