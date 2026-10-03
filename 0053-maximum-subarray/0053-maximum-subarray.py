@@ -8,7 +8,7 @@ class Solution:
         #         maxi=max(maxi,sum)
         # return maxi 
         ss=0
-        ts=float('-inf')
+        ts=min(nums)
         for i in nums:
             ss+=i
             if ss>ts:
