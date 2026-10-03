@@ -84,6 +84,7 @@ My LeetCode solutions in Python Visibility:
 | [1636-sort-array-by-increasing-frequency](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -172,6 +173,7 @@ My LeetCode solutions in Python Visibility:
 | [1694-reformat-phone-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1694-reformat-phone-number) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
