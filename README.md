@@ -23,6 +23,7 @@ My LeetCode solutions in Python Visibility:
 | [0260-single-number-iii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0682-baseball-game) |
@@ -76,6 +77,7 @@ My LeetCode solutions in Python Visibility:
 | [0229-majority-element-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -113,6 +115,7 @@ My LeetCode solutions in Python Visibility:
 | ------- |
 | [0053-maximum-subarray](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,6 +230,7 @@ My LeetCode solutions in Python Visibility:
 | [0229-majority-element-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1051-height-checker) |
@@ -247,6 +251,7 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -332,8 +337,17 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
