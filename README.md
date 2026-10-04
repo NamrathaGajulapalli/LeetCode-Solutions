@@ -65,6 +65,7 @@ My LeetCode solutions in Python Visibility:
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3838-weighted-word-mapping](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3978-unique-middle-element](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
+| [3996-even-number-of-knight-moves](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3996-even-number-of-knight-moves) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@ My LeetCode solutions in Python Visibility:
 | [1512-number-of-good-pairs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3996-even-number-of-knight-moves](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3996-even-number-of-knight-moves) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
