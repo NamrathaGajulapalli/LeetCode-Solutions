@@ -204,6 +204,7 @@ My LeetCode solutions in Python Visibility:
 | [3146-permutation-difference-between-two-strings](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3210-find-the-encrypted-string) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3340-check-balanced-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -252,6 +253,7 @@ My LeetCode solutions in Python Visibility:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Counting
 |  |
 | ------- |
