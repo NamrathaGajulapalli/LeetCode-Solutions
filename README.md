@@ -199,6 +199,7 @@ My LeetCode solutions in Python Visibility:
 | [2418-sort-the-people](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2785-sort-vowels-in-a-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [3110-score-of-a-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3136-valid-word) |
 | [3146-permutation-difference-between-two-strings](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
