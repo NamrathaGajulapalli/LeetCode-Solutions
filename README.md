@@ -63,6 +63,7 @@ My LeetCode solutions in Python Visibility:
 | [2418-sort-the-people](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2643-row-with-maximum-ones](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2678-number-of-senior-citizens](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
+| [2788-split-strings-by-separator](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2788-split-strings-by-separator) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3838-weighted-word-mapping](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3978-unique-middle-element](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
@@ -199,6 +200,7 @@ My LeetCode solutions in Python Visibility:
 | [2418-sort-the-people](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2785-sort-vowels-in-a-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [2788-split-strings-by-separator](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2788-split-strings-by-separator) |
 | [3110-score-of-a-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3136-valid-word) |
