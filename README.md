@@ -177,6 +177,7 @@ My LeetCode solutions in Python Visibility:
 | [0242-valid-anagram](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1694-reformat-phone-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1694-reformat-phone-number) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -277,6 +278,7 @@ My LeetCode solutions in Python Visibility:
 | ------- |
 | [0020-valid-parentheses](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3174-clear-digits](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Binary Search
 |  |
@@ -334,6 +336,7 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Pigeonhole Principle
 |  |
@@ -344,6 +347,7 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bucket Sort
 |  |
 | ------- |
