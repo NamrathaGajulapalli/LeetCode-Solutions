@@ -33,6 +33,7 @@ My LeetCode solutions in Python Visibility:
 | [0922-sort-array-by-parity-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1051-height-checker](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
@@ -82,6 +83,7 @@ My LeetCode solutions in Python Visibility:
 | [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -178,6 +180,7 @@ My LeetCode solutions in Python Visibility:
 | [0344-reverse-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1694-reformat-phone-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1694-reformat-phone-number) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -263,6 +266,7 @@ My LeetCode solutions in Python Visibility:
 | ------- |
 | [0229-majority-element-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
