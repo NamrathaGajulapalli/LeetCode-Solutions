@@ -58,6 +58,7 @@ My LeetCode solutions in Python Visibility:
 | [2085-count-common-words-with-one-occurrence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2239-find-closest-number-to-zero](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -253,6 +254,7 @@ My LeetCode solutions in Python Visibility:
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2418-sort-the-people](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
