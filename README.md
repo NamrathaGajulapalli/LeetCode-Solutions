@@ -48,6 +48,7 @@ My LeetCode solutions in Python Visibility:
 | [1539-kth-missing-positive-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -262,6 +263,7 @@ My LeetCode solutions in Python Visibility:
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
