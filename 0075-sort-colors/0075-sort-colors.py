@@ -24,15 +24,7 @@ class Solution:
         for i in range(c2):
             nums[index]=2
             index+=1    
- 
-   
-        # for i in range(c2):
-        #     nums[index]=2
-        #     index+=1 
-     
-        # return nums                   
-
-        
+                          
 
         """
         Do not return anything, modify nums in-place instead.
