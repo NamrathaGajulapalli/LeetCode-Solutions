@@ -17,6 +17,7 @@ My LeetCode solutions in Python Visibility:
 | [0128-longest-consecutive-sequence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0198-house-robber](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -140,6 +141,7 @@ My LeetCode solutions in Python Visibility:
 | [0053-maximum-subarray](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0198-house-robber](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0338-counting-bits) |
 ## Linked List
 |  |
