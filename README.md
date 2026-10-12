@@ -70,6 +70,7 @@ My LeetCode solutions in Python Visibility:
 | [2418-sort-the-people](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2643-row-with-maximum-ones](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2678-number-of-senior-citizens](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -400,4 +401,8 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
