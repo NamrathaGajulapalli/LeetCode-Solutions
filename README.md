@@ -82,6 +82,7 @@ My LeetCode solutions in Python Visibility:
 | [3838-weighted-word-mapping](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3978-unique-middle-element](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 | [3996-even-number-of-knight-moves](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3996-even-number-of-knight-moves) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ My LeetCode solutions in Python Visibility:
 | [3146-permutation-difference-between-two-strings](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Bit Manipulation
 |  |
 | ------- |
