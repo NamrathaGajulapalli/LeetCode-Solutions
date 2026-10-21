@@ -78,6 +78,7 @@ My LeetCode solutions in Python Visibility:
 | [2798-number-of-employees-who-met-the-target](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3467-transform-array-by-parity](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3838-weighted-word-mapping](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3978-unique-middle-element](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
@@ -283,6 +284,7 @@ My LeetCode solutions in Python Visibility:
 | [2784-check-if-array-is-good](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3467-transform-array-by-parity](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Sliding Window
 |  |
 | ------- |
@@ -305,6 +307,7 @@ My LeetCode solutions in Python Visibility:
 | [2206-divide-array-into-equal-pairs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3467-transform-array-by-parity](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3978-unique-middle-element](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 ## Stack
