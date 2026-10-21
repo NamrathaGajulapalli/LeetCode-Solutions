@@ -60,6 +60,7 @@ My LeetCode solutions in Python Visibility:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -281,6 +282,7 @@ My LeetCode solutions in Python Visibility:
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2418-sort-the-people](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -329,6 +331,7 @@ My LeetCode solutions in Python Visibility:
 | [0287-find-the-duplicate-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
