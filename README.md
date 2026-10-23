@@ -54,6 +54,7 @@ My LeetCode solutions in Python Visibility:
 | [1636-sort-array-by-increasing-frequency](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -188,6 +189,7 @@ My LeetCode solutions in Python Visibility:
 | [0728-self-dividing-numbers](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
