@@ -92,6 +92,7 @@ My LeetCode solutions in Python Visibility:
 | [3467-transform-array-by-parity](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3606-coupon-code-validator](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3978-unique-middle-element](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
@@ -207,6 +208,7 @@ My LeetCode solutions in Python Visibility:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3996-even-number-of-knight-moves](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3996-even-number-of-knight-moves) |
 ## Floyd's Cycle Finding Algorithm
