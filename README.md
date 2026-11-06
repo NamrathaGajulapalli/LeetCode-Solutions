@@ -64,6 +64,7 @@ My LeetCode solutions in Python Visibility:
 | [1991-find-the-middle-index-in-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -122,6 +123,7 @@ My LeetCode solutions in Python Visibility:
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2206-divide-array-into-equal-pairs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -233,6 +235,7 @@ My LeetCode solutions in Python Visibility:
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -327,6 +330,7 @@ My LeetCode solutions in Python Visibility:
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2206-divide-array-into-equal-pairs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
