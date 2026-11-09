@@ -28,6 +28,7 @@ My LeetCode solutions in Python Visibility:
 | [0605-can-place-flowers](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0832-flipping-an-image](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0896-monotonic-array) |
