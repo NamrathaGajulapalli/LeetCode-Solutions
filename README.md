@@ -69,6 +69,7 @@ My LeetCode solutions in Python Visibility:
 | [1991-find-the-middle-index-in-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2032-two-out-of-three](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -288,6 +289,7 @@ My LeetCode solutions in Python Visibility:
 | [0832-flipping-an-image](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3174-clear-digits](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3174-clear-digits) |
@@ -393,6 +395,7 @@ My LeetCode solutions in Python Visibility:
 | [0867-transpose-matrix](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2643-row-with-maximum-ones](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Recursion
 |  |
