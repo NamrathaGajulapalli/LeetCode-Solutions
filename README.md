@@ -70,6 +70,7 @@ My LeetCode solutions in Python Visibility:
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2032-two-out-of-three](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -316,6 +317,7 @@ My LeetCode solutions in Python Visibility:
 | [1636-sort-array-by-increasing-frequency](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -410,6 +412,7 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## String Matching
 |  |
 | ------- |
@@ -425,6 +428,7 @@ My LeetCode solutions in Python Visibility:
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1710-maximum-units-on-a-truck](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Pigeonhole Principle
 |  |
 | ------- |
