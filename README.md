@@ -44,6 +44,7 @@ My LeetCode solutions in Python Visibility:
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
+| [1331-rank-transform-of-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -125,6 +126,7 @@ My LeetCode solutions in Python Visibility:
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -315,6 +317,7 @@ My LeetCode solutions in Python Visibility:
 | [0905-sort-array-by-parity](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1331-rank-transform-of-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
