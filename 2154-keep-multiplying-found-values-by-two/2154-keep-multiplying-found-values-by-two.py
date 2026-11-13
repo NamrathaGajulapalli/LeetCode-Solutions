@@ -1,5 +1,6 @@
 class Solution:
     def findFinalValue(self, nums: list[int], original: int) -> int:
+        nums=set(nums)
         r=0
         while True:
             if original in nums:
