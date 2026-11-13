@@ -68,6 +68,7 @@ My LeetCode solutions in Python Visibility:
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -328,6 +329,7 @@ My LeetCode solutions in Python Visibility:
 | [1636-sort-array-by-increasing-frequency](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -343,6 +345,7 @@ My LeetCode solutions in Python Visibility:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Counting
 |  |
