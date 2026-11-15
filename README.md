@@ -85,6 +85,7 @@ My LeetCode solutions in Python Visibility:
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
@@ -143,6 +144,7 @@ My LeetCode solutions in Python Visibility:
 | [2053-kth-distinct-string-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -368,6 +370,7 @@ My LeetCode solutions in Python Visibility:
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
