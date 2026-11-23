@@ -108,6 +108,7 @@ My LeetCode solutions in Python Visibility:
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3606-coupon-code-validator](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3833-count-dominant-indices](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3978-unique-middle-element](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
@@ -499,6 +500,7 @@ My LeetCode solutions in Python Visibility:
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3833-count-dominant-indices](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3833-count-dominant-indices) |
 ## Binary Indexed Tree
 |  |
 | ------- |
