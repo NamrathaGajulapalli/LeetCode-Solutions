@@ -105,6 +105,7 @@ My LeetCode solutions in Python Visibility:
 | [2899-last-visited-integers](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2899-last-visited-integers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3452-sum-of-good-numbers](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -424,6 +425,7 @@ My LeetCode solutions in Python Visibility:
 | [1572-matrix-diagonal-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2643-row-with-maximum-ones](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Recursion
 |  |
 | ------- |
