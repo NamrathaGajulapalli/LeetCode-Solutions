@@ -104,6 +104,7 @@ My LeetCode solutions in Python Visibility:
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2899-last-visited-integers](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2899-last-visited-integers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3452-sum-of-good-numbers](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
