@@ -102,6 +102,7 @@ My LeetCode solutions in Python Visibility:
 | [2788-split-strings-by-separator](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2899-last-visited-integers](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2899-last-visited-integers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3452-sum-of-good-numbers](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
@@ -309,6 +310,7 @@ My LeetCode solutions in Python Visibility:
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2899-last-visited-integers](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2899-last-visited-integers) |
 | [3174-clear-digits](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3582-generate-tag-for-video-caption) |
