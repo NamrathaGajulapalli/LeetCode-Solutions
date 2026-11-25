@@ -267,6 +267,7 @@ My LeetCode solutions in Python Visibility:
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2027-minimum-moves-to-convert-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -463,6 +464,7 @@ My LeetCode solutions in Python Visibility:
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1710-maximum-units-on-a-truck](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [2027-minimum-moves-to-convert-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Pigeonhole Principle
 |  |
