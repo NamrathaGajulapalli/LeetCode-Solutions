@@ -259,6 +259,7 @@ My LeetCode solutions in Python Visibility:
 | [0344-reverse-string](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1108-defanging-an-ip-address](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1694-reformat-phone-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1694-reformat-phone-number) |
