@@ -237,6 +237,7 @@ My LeetCode solutions in Python Visibility:
 | [1822-sign-of-the-product-of-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
