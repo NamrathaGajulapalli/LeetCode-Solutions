@@ -96,6 +96,7 @@ My LeetCode solutions in Python Visibility:
 | [2418-sort-the-people](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2678-number-of-senior-citizens](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -413,6 +414,7 @@ My LeetCode solutions in Python Visibility:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3707-equal-score-substrings](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/3707-equal-score-substrings) |
 ## Union-Find
 |  |
