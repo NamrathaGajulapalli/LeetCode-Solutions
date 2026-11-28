@@ -46,6 +46,7 @@ My LeetCode solutions in Python Visibility:
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -407,6 +408,7 @@ My LeetCode solutions in Python Visibility:
 | [0209-minimum-size-subarray-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -432,6 +434,7 @@ My LeetCode solutions in Python Visibility:
 | [0832-flipping-an-image](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2643-row-with-maximum-ones](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
