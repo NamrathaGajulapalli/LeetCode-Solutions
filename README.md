@@ -38,6 +38,7 @@ My LeetCode solutions in Python Visibility:
 | [0941-valid-mountain-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1051-height-checker](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1267-count-servers-that-communicate](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
@@ -216,6 +217,7 @@ My LeetCode solutions in Python Visibility:
 | [0832-flipping-an-image](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1089-duplicate-zeros](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NamrathaGajulapalli/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
